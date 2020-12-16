@@ -1,8 +1,6 @@
-#include <stdio.h>
-int main(void){
-    int input = 0;
-    printf("input an interger:\n");
-    scanf("%d",&input);
-    printf("the interger you input is %d\n",input);
+#include<stdio.h>
+int main()
+{
+    int a[] = {1,2,3,4,5,6};
     return 0;
 }
